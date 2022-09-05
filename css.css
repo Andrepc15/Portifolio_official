@@ -1,5 +1,6 @@
 body{
     background-image: url(/blackground.jpg);
+    background-size: contain;
 }
 #Titulo{
     font-family: Arial, Helvetica, sans-serif;
